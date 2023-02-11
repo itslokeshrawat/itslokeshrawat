@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400" height="300"/>
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" height="300"/>
 </div>
 
 🔭 I’m currently working on A.I Image/Art Generator.<br>👯 I'm always open to collaborate with anyone who is interested in conversing and learning about various topics.<br>💬 Ask me about anything.
